@@ -5,7 +5,7 @@ This project contains python scripts for camera calibration and object detection
 
 
 
-![Logo](https://drive.google.com/file/d/16WsWxJw8m_2m0PL14GpeU4xeyNxZE_ck/view?usp=sharing)
+![Logo](https://github.com/dev-kokje/robovision-vision-system/blob/main/logo.jpg?raw=true)
 
 
 ## Documentation
