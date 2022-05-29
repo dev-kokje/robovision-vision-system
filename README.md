@@ -10,9 +10,9 @@ This project contains python scripts for camera calibration and object detection
 
 ## Documentation
 
-[Quick Start Guide](https://linktodocumentation)
+[Quick Start Guide](https://drive.google.com/drive/folders/1paPVuRc2Pnds0aVcwwZPV5uXiFTofP2n)
 
-[Equipments Used List](https://linktodocumentation)
+[Equipments Used List](https://drive.google.com/drive/folders/1paPVuRc2Pnds0aVcwwZPV5uXiFTofP2n)
 
-[Software Dependency List](https://linktodocumentation)
+[Software Dependency List](https://drive.google.com/drive/folders/1paPVuRc2Pnds0aVcwwZPV5uXiFTofP2n)
 
